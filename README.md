@@ -1,0 +1,2 @@
+# multivers-cuantic
+Ctrl + C
